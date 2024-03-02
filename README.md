@@ -1,4 +1,4 @@
-![Code Central](https://github.com/RomeCoCe/RomeCoCe/blob/main/CodeCentral_Logo_FINAL_OTL_RGB_Blue_Yellow_Over_Transparent%20(1).png)
+<img src="https://github.com/RomeCoCe/RomeCoCe/blob/main/CodeCentral_Logo_FINAL_OTL_RGB_Blue_Yellow_Over_Transparent%20(1).png" width=500 alt="CodeCentral">
 
 # Welcome
 **Hi, I’m @RomeCoCe. I am a student instructor at CodeCentral.**
