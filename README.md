@@ -2,7 +2,7 @@
 **Hi, I’m @RomeCoCe. I am a student instructor at CodeCentral.**
 
 This is a collection of courses and tutorials for a Web Development Curriculum. The curriculum consists of three tiers, each focusing on one of the three pillars of web development - HTML, CSS, and Javascript. Each course tier will also contain three levels - beginner, intermediate, and advanced.
-You must complete each tier before moving on the next. For example, you must complete the HTML course before moving on to the CSS cours, and completing that will open the Javascript course. The purpose is to ensure the student has a good understanding of each concept before implementing the next.
+You must complete each tier before moving on the next. For example, you must complete the HTML course before moving on to the CSS course, and completing that will open the Javascript course. The purpose is to ensure the student has a good understanding of each concept before implementing the next.
 The CSS course will incorporate what you've learned in the HTML course, and the Javascript course will include what you have learned in both HTML and CSS.
 
 --------------------------------------------------------------------------------------------------------------------
