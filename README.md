@@ -1,7 +1,5 @@
-<img src="https://github.com/RomeCoCe/RomeCoCe/blob/main/CodeCentral_Logo_FINAL_OTL_RGB_Blue_Yellow_Over_Transparent%20(1).png" width=500 alt="CodeCentral">
-
 # Welcome
-**Hi, I’m @RomeCoCe. I am a student instructor at CodeCentral.**
+**Hi, I’m Rome! I am a web and mobile developer.
 
 Specializing in web and mobile developmenet with over a decade of experience, my journey has been one of constant evolution, both professionally and personally. My name is Rome, and I've always been fascinated by the ever-changing landscape of technology. From my early days tinkering with computers to my current role as a father and educator, my passion for web development has been the driving force behind my endeavors.
 
