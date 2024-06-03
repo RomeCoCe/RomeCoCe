@@ -1,5 +1,4 @@
-# Welcome
-**Hi, I’m Rome! I am a web and mobile developer.
+## Hi, I’m Rome!
 
 Specializing in web and mobile developmenet with over a decade of experience, my journey has been one of constant evolution, both professionally and personally. My name is Rome, and I've always been fascinated by the ever-changing landscape of technology. From my early days tinkering with computers to my current role as a father and educator, my passion for web development has been the driving force behind my endeavors.
 
